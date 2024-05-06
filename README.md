@@ -1,4 +1,4 @@
-# UDP Toqster
+# UDP all4outgaming
 
 A potent UDP flooding tool designed for stress testing network resilience and evaluating security measures.
 
@@ -64,12 +64,12 @@ python udp-toqster.py
 - Fixed the hostname issues
 ```
 <div align="center">
-    <h2><p>IamToqst Socials:</p></h1>
+    <h2><p>all4outgaming:</p></h1>
 </div>
 
 ```bash
 
-Socials of IamToqst:
+Socials of all4outgaming:
 
 Discord: IamToqst.
 YouTube: https://youtube.com/@IamToqst
